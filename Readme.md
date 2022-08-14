@@ -10,7 +10,7 @@
 
 
 
-## Clone Project 01 [Live Link](https://fullstack-js-project-clone-01.netlify.app/)
+## Clone Project 01 [Live Link](https://clone-paytm-01.netlify.app/)
 
 - >  Skills Gained in this project
     -   Learned to how to make responesive webpage.
